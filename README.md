@@ -1,2 +1,3 @@
 You have more potential than you will ever know, yet you spend your waking hours on the computer.
-![Smile jesus loves you](https://user-images.githubusercontent.com/17298607/122703202-a720f300-d216-11eb-9c24-b4a9d8106361.jpg)
+![he made hmself nothing he humbled himself by becoming obedient to death philippians 2 7 - 8](https://user-images.githubusercontent.com/17298607/122703273-ca4ba280-d216-11eb-8f6c-0ccd4d4a2f1e.png=250x250)
+
