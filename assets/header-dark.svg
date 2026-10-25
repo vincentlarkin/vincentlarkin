@@ -8,10 +8,10 @@
   <rect x="1344" y="80" width="80" height="80" fill="#262626" stroke="#393939" stroke-width="2"/>
   <rect x="1440" y="80" width="80" height="80" fill="#262626" stroke="#393939" stroke-width="2"/>
   <rect x="1056" y="176" width="80" height="80" fill="#262626" stroke="#393939" stroke-width="2"/>
-  <rect x="1152" y="176" width="80" height="80" fill="#262626" stroke="#393939" stroke-width="2"/>
-  <rect x="1248" y="176" width="80" height="80" fill="#262626" stroke="#393939" stroke-width="2"/>
-  <rect x="1344" y="176" width="80" height="80" fill="#0f62fe"/>
-  <rect x="1440" y="176" width="80" height="80" fill="#262626" stroke="#393939" stroke-width="2"/>
+  <rect x="1152" y="176" width="80" height="80" fill="#78a9ff"/>
+  <rect x="1248" y="176" width="80" height="80" fill="#3ddbd9"/>
+  <rect x="1344" y="176" width="80" height="80" fill="#f1c21b"/>
+  <rect x="1440" y="176" width="80" height="80" fill="#ff6f61"/>
   <rect x="1056" y="272" width="80" height="80" fill="#262626" stroke="#393939" stroke-width="2"/>
   <rect x="1152" y="272" width="80" height="80" fill="#262626" stroke="#393939" stroke-width="2"/>
   <rect x="1248" y="272" width="80" height="80" fill="#262626" stroke="#393939" stroke-width="2"/>
