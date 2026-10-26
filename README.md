@@ -10,6 +10,6 @@
 <a href="https://archive.vincentlarkin.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-03-dark.svg"><img alt="03, Reference archive. Acervo: flags, seals, insignia, laws, and artifacts from around the world. archive.vincentlarkin.com" src="assets/project-03-light.svg" width="49%"></picture></a>
 <a href="https://larkincomputingbureau.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-04-dark.svg"><img alt="04, Software. Larkin Computing Bureau: small personal software, made with care. Home of lcb-ai. larkincomputingbureau.com" src="assets/project-04-light.svg" width="49%"></picture></a>
 
-> For to set the mind on the flesh is death, but to set the mind on the Spirit is life and peace. — Romans 8:6
+> And just as it is appointed for man to die once, and after that comes judgment, so Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him. — Hebrews 9:27-28
 
 <sub>[vincentlarkin.com](https://vincentlarkin.com) · [contact@vincentlarkin.com](mailto:contact@vincentlarkin.com) · Set in IBM Plex with Carbon Design System colors and icons</sub>
