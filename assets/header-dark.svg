@@ -19,6 +19,5 @@
   <rect x="1440" y="272" width="80" height="80" fill="#262626" stroke="#393939" stroke-width="2"/>
   <text x="80" y="112" font-family="'Plex Mono','IBM Plex Sans',Helvetica,Arial,sans-serif" font-size="26" fill="#a8a8a8" text-anchor="start" letter-spacing="0.5">vincentlarkin.com</text>
   <text x="76" y="236" font-family="'Plex Light','IBM Plex Sans',Helvetica,Arial,sans-serif" font-size="112" fill="#f4f4f4" text-anchor="start">Vincent Larkin</text>
-  <text x="80" y="300" font-family="'Plex','IBM Plex Sans',Helvetica,Arial,sans-serif" font-size="34" fill="#c6c6c6" text-anchor="start">Websites and software I build and run.</text>
   <rect x="80" y="336" width="96" height="6" fill="#0f62fe"/>
 </svg>
