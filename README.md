@@ -1,7 +1,7 @@
 <a href="https://vincentlarkin.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img alt="Vincent Larkin. Websites and software I build and run." src="assets/header-light.svg" width="100%">
+    <img alt="Vincent Larkin." src="assets/header-light.svg" width="100%">
   </picture>
 </a>
 
